@@ -8,6 +8,6 @@ Wrote it with Node because it was easier than learning how to shell script.
 
 ## Installation (working from a unix-ish environment)
 1. Make sure you have Node and NPM installed
-1. Clone this repo
+1. `git clone https://github.com/jonnypolite/pulse.git`
 1. `cd pulse`
 1. `npm i -g`
